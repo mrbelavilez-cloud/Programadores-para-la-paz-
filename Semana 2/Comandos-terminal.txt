@@ -1,0 +1,5 @@
+mkdir
+touch preguntas-semana2
+git status
+nanos
+is

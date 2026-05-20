@@ -1,0 +1,3 @@
+Cuando te acostumbras, es más veloz escribir
+La terminal es el idioma nativo de la programación. Aprender a navegar en ella te quita la dependencia del mouse y te prepara para administrar tus proyectos como un verdadero profesional, sin importar en qué computador estés trabajando.
+En la terminal puedes crear, mover, renombrar o borrar decenas de archivos en un solo segundo con una línea de texto.
