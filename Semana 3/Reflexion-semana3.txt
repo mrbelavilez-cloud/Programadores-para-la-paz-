@@ -1,0 +1,3 @@
+Para un programador o un equipo de desarrollo, no usar Git es como redactar una tesis universitaria guardando archivos con el mismo nombre una y otra vez
+Tarde o temprano, alguien borra algo importante por error y el caos es absoluto.
+Herramientas como Git resuelven esto por completo. Mantener un registro de cambios es vital

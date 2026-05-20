@@ -1,0 +1,6 @@
+Repositorio: Es la carpeta o el contenedor donde se guardan todos los archivos y documentos de tu proyecto de software.
+Su gran ventaja es que no solo almacena la versión actual del código, sino que también guarda de forma ordenada todo el historial de cambios y las modificaciones
+Commit: guardar un punto de control en un momento específico del desarrollo de tu código.
+Cada vez que realizas un avance importante o terminas una función, haces un commit acompañado de un mensaje corto para registrar qué cambiaste, lo que te permite volver a ese punto exacto si algo sale mal en el futuro.
+Push: Es la acción de "empujar" o subir los commits, que has guardado localmente en tu propio computador hacia el repositorio remoto en la nube
+Al hacer un push, logras que tu trabajo quede respaldado de forma segura en internet y permites que tus compañeros de equipo puedan ver y descargar tus actualizaciones.
