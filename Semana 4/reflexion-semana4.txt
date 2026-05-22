@@ -1,0 +1,4 @@
+Es fundamental porque les otorga autonomía tecnológica y soberanía sobre sus propios datos,
+permitiéndoles diseñar soluciones adaptadas exactamente a sus realidades locales sin depender de licencias costosas o corporaciones transnacionales.
+Al utilizar tecnologías abiertas y populares como Node.js, las comunidades se benefician de un ecosistema global de conocimiento colaborativo
+donde cualquiera puede aprender, auditar el código para garantizar la transparencia y replicar la herramienta en otros contextos.
