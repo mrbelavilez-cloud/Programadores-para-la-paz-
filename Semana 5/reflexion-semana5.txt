@@ -1,0 +1,6 @@
+Las APls actúan como los puentes de comunicación estandarizados del mundo digital. 
+En el contexto de iniciativas ciudadanas o comunitarias, una API no es solo una herramienta técnica, sino una infraestructura social que permite centralizar, organizar y distribuir datos de manera democrática y eficiente.
+En una comunidad, las personas usan diferentes herramientas para comunicarse: unos prefieren WhatsApp, otros formularios web, bots de Telegram o aplicaciones móviles propias.
+Una API permite que todas estas aplicaciones externas envíen los datos en un formato idéntico (generalmente JSON) hacia un único servidor central.
+Cuando ocurre una emergencia comunitaria, la velocidad de la información es vital.
+Elimina la necesidad de publicar manualmente el mismo mensaje en diez plataformas distintas, garantizando que la información crítica llegue a tiempo y de manera uniforme.
