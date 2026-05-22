@@ -1,0 +1,9 @@
+En el desarrollo de servidores con Node.js y Express, una ruta es una 
+estructura de código que mapea una combinación específica de una URL 
+(dirección web) y un método HTTP (como GET o POST) a una función controladora.
+Cuando el servidor recibe una solicitud del usuario que coincide con la 
+URL y el método definidos, la ruta se activa y ejecuta la lógica interna
+Las iniciativas ciudadanas y comunitarias utilizan la tecnología para 
+resolver problemáticas locales, coordinar esfuerzos y centralizar la 
+información de forma transparente. En ese contexto, las rutas del 
+servidor son el motor de las funcionalidades comunitarias.
