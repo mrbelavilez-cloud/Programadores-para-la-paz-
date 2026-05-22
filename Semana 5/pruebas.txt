@@ -1,0 +1,6 @@
+Localhost:3000 - Se conecta al punto de entrada base del servidor local. Técnicamente, el servidor capta la petición en la raíz (/) 
+Y suele responder mostrando la página principal o un mensaje de confirmación que asegura que el servicio está levantado y escuchando correctamente.
+localhost:3000 saludo - El navegador solicita un recurso específico y fijo. 
+El servidor procesa el endpoint /saludo y devuelve una respuesta predefinida en el código (por ejemplo, un texto o un JSON de bienvenida general) idéntica para todos los usuarios que entren allí.
+Localhost: 3000 mensaje-juan Aquí el servidor demuestra su capacidad lógica interactiva. Detecta que "juan" es un parámetro variable (definido en Express como :nombre). 
+El backend extrae el valor juan mediante req.params y genera una respuesta personalizada en tiempo real
