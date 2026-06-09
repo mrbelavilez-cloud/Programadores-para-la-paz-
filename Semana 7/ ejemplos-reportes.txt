@@ -1,0 +1,15 @@
+Ejemplo 1
+TIPO: REPORTE DE SERVICIOS PÚBLICOS Y ATENCIÓN CIUDADANA
+Descripción detallada:
+Por medio de este reporte se evidencia el constante incumplimiento en los tiempos 
+de atención y la falta de inventario de medicamentos esenciales en la farmacia del 
+Hospital Local.
+
+Ejemplo 2
+TIPO: REPORTE DE INFRAESTRUCTURA Y RECURSOS PÚBLICOS
+Descripción detallada:
+Los ciudadanos del barrio Central reportamos que la obra de pavimentación de la 
+Calle 12, contratada bajo el proceso licitatorio LP-004-2025, se encuentra 
+completamente paralizada desde hace más de 45 días. La empresa contratista retiró 
+la maquinaria pesada del lugar dejando la vía excavada, lo que está ocasionando 
+graves problemas de movilidad, acumulación de aguas negras y accidentes de tránsito recurrentes.
