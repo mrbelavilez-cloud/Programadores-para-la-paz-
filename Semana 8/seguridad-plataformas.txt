@@ -1,0 +1,5 @@
+Ofuscación y Protección de Datos Personales (No exponer datos)
+Gestión de Credenciales Fuertes y Cifrado (Proteger credenciales)
+Uso Obligatorio de Canales Cifrados (Usar conexiones seguras)
+Auditoría y Registro Cronológico (Registrar accesos y logs)
+Control de Acceso Basado en Roles (Limitar acceso a información sensible)

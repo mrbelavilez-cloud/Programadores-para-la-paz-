@@ -1,0 +1,7 @@
+Dado que los servidores no suelen tener una interfaz gráfica para ahorrar recursos,
+el uso de comandos es la única manera de supervisar lo que está ocurriendo dentro de la máquina.
+El comando uname:
+Muestra información básica sobre el sistema operativo y la arquitectura del hardware. 
+Si lo ejecutas solo, simplemente te dirá Linux, pero si utilizas el argumento más común (uname -a), te mostrará un desglose completo
+El comando whoami:
+muestra el nombre del usuario actual que tiene la sesión activa en la terminal.

@@ -1,0 +1,3 @@
+Gestión de Credenciales y Contraseñas Fuertes
+El sistema debe asignar únicamente los permisos estrictamente necesarios para que cada rol cumpla su función
+Monitoreo y Revisión de Logs de Eventos

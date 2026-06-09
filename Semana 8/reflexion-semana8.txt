@@ -1,0 +1,9 @@
+La seguridad digital en plataformas comunitarias y de presupuesto participativo no es un simple requerimiento técnico
+es el cimiento democrático que sostiene la participación.
+Cuando los ciudadanos utilizan la tecnología para auditar recursos públicos
+denunciar irregularidades o decidir el destino de inversiones en sus barrios,
+se exponen a dinámicas de poder complejas que exigen un entorno digital blindado.
+La importancia de implementar una seguridad operativa: 
+1. Protección de la Integridad del Ciudadano
+2. Preservación de la Credibilidad y Legitimidad del Proceso
+3. Sostenibilidad y Soberanía Tecnológica frente al Sabotaje
