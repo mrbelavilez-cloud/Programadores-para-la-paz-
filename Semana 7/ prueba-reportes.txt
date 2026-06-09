@@ -1,0 +1,10 @@
+Al ejecutar la ruta desde una herramienta como Postman o Thunder Client, el cliente envía una petición con el método GET hacia el servidor local
+El servidor recibe la solicitud en la ruta /reportes. Al identificar que es un método de consulta (GET)
+el código del backend accede al lugar donde se están almacenando temporal o permanentemente los datos
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
