@@ -1,0 +1,9 @@
+Que las plataformas tecnológicas reciban los reportes ciudadanos de forma estructurada
+es fundamental porque permite al sistema procesar, clasificar y almacenar la información de manera automática e inmediata
+eliminando los errores de interpretación del texto libre.
+Al organizar los datos en campos fijos como categorías, ubicaciones específicas o evidencias adjuntas
+el software puede priorizar las alertas de forma inteligente, generar estadísticas en tiempo real
+Y direccionar automáticamente cada caso a la veeduría o entidad competente.
+Esto no solo agiliza los tiempos de respuesta institucional
+sino que además facilita auditorías de datos transparentes
+y un seguimiento riguroso del estado de cada incidencia

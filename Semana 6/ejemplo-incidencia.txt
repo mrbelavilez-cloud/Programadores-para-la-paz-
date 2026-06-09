@@ -1,0 +1,13 @@
+{
+  "categoria": "Obras e Infraestructura Pública",
+  "titulo": "Paralización de obra de pavimentación en la calle principal",
+  "veeduriaAsociada": "Veeduría de Infraestructura Vial de Cereté",
+  "descripcion": "La obra de pavimentación de la Calle 12 se encuentra completamente suspendida desde hace más de 45 días. El contratista retiró la maquinaria pesada dejando la vía excavada, lo que genera problemas de movilidad y estancamiento de aguas.",
+  "detallesContrato": {
+    "numeroProceso": "LP-004-2025",
+    "entidadContratante": "Alcaldía Municipal"
+  },
+  "ubicacion": {
+    "barrio": "Barrio Central",
+    "direccion": "Calle 12 con Carrera 15"
+    }
