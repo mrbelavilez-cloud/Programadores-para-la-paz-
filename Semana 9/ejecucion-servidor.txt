@@ -1,0 +1,7 @@
+El intérprete lee tu archivo server.js de arriba a abajo:
+Carga los módulos y dependencias necesarios (como express)
+Configura las rutas (los endpoints como GET /, GET /estado)
+{
+  "estado": "Servidor funcionando",
+  "servicio": "API comunitaria"
+}

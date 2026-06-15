@@ -1,0 +1,6 @@
+La estabilidad y la seguridad de una plataforma comunitaria en un servidor son fundamentales 
+porque constituyen el pilar técnico que sostiene la confianza ciudadana y la legitimidad del control social. 
+Si el servidor experimenta caídas constantes o carece de medidas operativas básicas 
+como el cifrado y el control de accesos, se interrumpe la recepción de reportes, 
+se debilita la participación colectiva por temor a la filtración de datos sensibles 
+y las evidencias recolectadas pierden validez ante los entes de control.
