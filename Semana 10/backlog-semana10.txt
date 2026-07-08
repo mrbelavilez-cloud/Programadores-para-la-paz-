@@ -1,0 +1,8 @@
+Prioridad Alta (Esencial):
+Como ciudadano afectado, quiero registrar una incidencia de forma anónima con descripción y fotos, para dejar evidencia del caso de corrupción o daño vial de manera segura.
+Prioridad Media-Alta:
+Como coordinador de la veeduría, quiero recibir una alerta automática por Telegram o correo electrónico cada vez que se cree una incidencia, para revisar e iniciar la validación del reporte sin demoras.
+Prioridad Media:
+Como miembro del equipo técnico, quiero consultar un listado organizado de reportes por estado (pendiente, en revisión, resuelto), para hacer un seguimiento claro a las solicitudes vigentes.
+Prioridad Baja (Complementaria):
+Como vecino de la comunidad, quiero ver un mapa o tablero público con los casos resueltos, para verificar el impacto real de nuestras veedurías en el territorio.

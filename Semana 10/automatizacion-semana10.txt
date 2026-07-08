@@ -1,0 +1,20 @@
+1. ¿Qué evento activa el flujo?
+El flujo en n8n se activa mediante un nodo de tipo Webhook (o un activador de base de datos) 
+que escucha el evento: "Nuevo reporte de incidencia registrado por un ciudadano en la plataforma".
+En cuanto el servidor Express procesa con éxito la petición POST del formulario, le avisa a n8n para que inicie la automatización de forma inmediata.
+2. ¿Qué mensaje se enviaría a Telegram?
+Se enviaría una notificación clara y resumida al chat o grupo de la veeduría comunitaria con el siguiente formato:
+🔔 ¡Nuevo Reporte Recibido!
+Categoría: [Categoría de la incidencia, ej: Infraestructura Vial]
+Fecha y Hora: [Fecha y hora del registro]
+Estado inicial: Pendiente de revisión.
+🔗 Por favor, ingresa al panel de administración del servidor para validar los detalles y las evidencias del caso de manera segura.
+3. ¿Qué información no debería enviarse por seguridad?
+Por el principio de exposición mínima y protección a la privacidad, NUNCA deben enviarse a través de Telegram los siguientes datos:
+Datos de identidad del ciudadano: 
+Nombres completos, números de cédula/documento, números telefónicos o correos electrónicos (para evitar represalias o filtraciones en chats de terceros).
+Ubicaciones exactas residenciales: 
+Direcciones específicas de hogares si estas ponen en riesgo al denunciante.
+Credenciales técnicas: 
+Claves secretas de la base de datos, tokens de acceso o variables del archivo .env. Telegram es un canal de comunicación externo de mensajería; 
+los datos sensibles solo deben consultarse de forma centralizada ingresando directamente al servidor seguro.

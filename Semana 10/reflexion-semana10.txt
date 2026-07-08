@@ -1,0 +1,5 @@
+La combinación de metodologías ágiles, automatización y canales de mensajería optimiza la participación ciudadana al transformar los procesos comunitarios tradicionales en flujos de trabajo dinámicos, eficientes y de alta confianza.
+Por un lado, las metodologías ágiles permiten priorizar las demandas más urgentes de la población mediante entregas de valor incrementales y adaptables, dividiendo grandes problemas vecinales en tareas claras y manejables.
+Por otro lado, la automatización con herramientas como n8n elimina la carga operativa manual al conectar instantáneamente los formularios de denuncia o propuestas con sistemas de gestión interna.
+Finalmente, canales como Telegram democratizan y aceleran el acceso a la información, funcionando como puentes directos de comunicación bidireccional que notifican alertas en tiempo real
+garantizan la trazabilidad ante la comunidad y fomentan una cultura de transparencia y rendición de cuentas inmediata y accesible para todos.
