@@ -1,0 +1,6 @@
+Una plataforma de participación ciudadana requiere estos componentes para garantizar su legitimidad, seguridad y operatividad efectiva
+la base de datos es el motor central que permite almacenar, organizar y consultar de forma eficiente las propuestas, evidencias y votaciones de la comunidad
+la autenticación de usuarios valida la identidad de quienes participan para asegurar que los procesos sean democráticos, 
+transparentes y libres de perfiles falsos o duplicados que puedan manipular la toma de decisiones
+finalmente, la protección de información (como el cifrado de datos y la exclusión de variables sensibles en repositorios públicos)
+blinda la privacidad de la ciudadanía, mitigando el riesgo de filtraciones y protegiendo a los denunciantes de posibles represalias externas
