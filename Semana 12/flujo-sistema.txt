@@ -1,0 +1,10 @@
+Creación de la causa: 
+Un ciudadano ingresa a la plataforma, llena un formulario simple con el título, la descripción y el problema de su comunidad, y crea una nueva causa.
+Almacenamiento y registro: 
+El sistema Express recibe los datos de la causa y los almacena de forma estructurada y segura en la base de datos, asignándole un identificador único (ID) y un estado inicial ("Activa").
+Difusión y respaldo comunitario: 
+Otros ciudadanos acceden a la plataforma, revisan el listado de causas disponibles y seleccionan la opción de apoyar o firmar digitalmente de manera segura.
+Conteo automatizado y auditoría: 
+El sistema registra cada nuevo apoyo en la base de datos vinculándolo a la causa correspondiente, actualiza el contador total en tiempo real y guarda la trazabilidad del proceso.
+Generación del documento legal: 
+Una vez que la causa alcanza la meta de apoyos o el creador lo solicita, el sistema procesa los datos de forma interna y genera automáticamente un documento PDF formal con el derecho de petición colectivo listo para ser radicado ante las instituciones correspondientes.

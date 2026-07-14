@@ -1,0 +1,6 @@
+Durante el curso se aprendió que la tecnología se convierte en un motor de transformación social cuando se diseña con un enfoque centrado en el usuario
+permitiendo simplificar la burocracia y acercar de forma efectiva a las personas a los mecanismos de exigibilidad democrática. 
+A través del uso de metodologías ágiles, se comprende la importancia de priorizar las necesidades reales del territorio para construir un Producto Mínimo Viable eficiente
+mientras que la automatización de flujos de trabajo con herramientas como n8n y la mensajería instantánea optimizan la gestión de procesos comunitarios en tiempo real. 
+Finalmente, se consolidó el aprendizaje de que cualquier solución tecnológica con impacto social debe asentarse sobre una infraestructura técnica robusta y segura (usando Node.js, Express y bases de datos)
+donde la autenticación y la protección estricta de datos sensibles son indispensables para salvaguardar la privacidad de la ciudadanía y consolidar la confianza colectiva en los espacios digitales.
